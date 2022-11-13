@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Lane Narrow';
+    src: url('/font/LaneNarrowLight.woff2') format('woff2'),
+        url('/font/LaneNarrowLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+
+    font-family: 'BlennyW01';
+    src: url('/font/BlennyW01-Black.woff2') format('woff2'),
+        url('/font/BlennyW01-Black.woff') format('woff');
+    /* font-weight: 900; */
+    font-style: normal;
+    font-display: swap;
+}
+
+
+  

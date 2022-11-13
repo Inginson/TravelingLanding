@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130.025" height="24" viewBox="0 0 130.025 24">
+  <g id="Header" transform="translate(-636 -646)">
+    <path id="Path_2" data-name="Path 2" d="M712,688l5.507,5.507L723.015,688" transform="translate(42.303 -31.754)" fill="none" stroke="#979dad" stroke-width="2"/>
+    <text id="Departing" transform="translate(661.303 665)" fill="#979dad" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.024em"><tspan x="0" y="0">Departing</tspan></text>
+    <g id="plane-departure" transform="translate(636 620.752)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0 31.999)">
+        <path id="Path_3" data-name="Path 3" d="M2.176,40.2a.911.911,0,0,0,.658.284l3.528-.007a1.755,1.755,0,0,0,.8-.189l7.843-3.914a4.311,4.311,0,0,0,1.787-1.544c.5-.756.551-1.3.355-1.687s-.669-.673-1.575-.729a4.576,4.576,0,0,0-2.332.517l-2.663,1.325L4.712,32.08a.45.45,0,0,0-.462-.03l-1.8.885a.482.482,0,0,0-.139.759l4.221,2.6L3.744,37.682l-1.957-.965a.481.481,0,0,0-.436,0l-1.085.541a.457.457,0,0,0-.149.719ZM16.438,43.03H.841A.847.847,0,0,0,0,43.854a.889.889,0,0,0,.841.872H16.413a.849.849,0,1,0,.024-1.7Z" transform="translate(0 -31.999)" fill="#979dad"/>
+      </g>
+    </g>
+  </g>
+</svg>
