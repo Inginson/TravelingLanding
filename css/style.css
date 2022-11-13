@@ -78,6 +78,7 @@
 
 .box2 {
   width: 1117px;
+  height: 125px;
   border: 2px solid white;
   background: white;
   display: inline-block;
@@ -121,19 +122,46 @@
 
 .box2 {
   display: inline-block;
-  vertical-align: middle;
+
 }
 
 .infotext {
   display: inline-block;
-  vertical-align: top;
   margin-top: 34px;
+  line-height: 20px;
+  border: 2px solid pink;
+  margin-bottom: 33px;
+  font-weight: bolder;
+  color: black;
 }
 
 .infospan {
   color: #979DAD;
   font-size: 18px;
   font-family: 'Lane Narrow';
+  
 }
 
-.infoicon
+.infoico {
+  margin-bottom: 20px;
+  margin-left: 98px;
+}
+
+.mapico{
+  margin-left: 58px;
+  margin-bottom: 20px;
+
+}
+
+.gobutton{
+  margin-left: 49px;
+  background-color: #5C28EA;
+  padding: 14px 40px 19px 40px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 33px;
+  color: white;
+  font-family: 'Lane Narrow';
+  font-weight: bolder;
+  font-size: 21px;
+}
